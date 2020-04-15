@@ -27,3 +27,7 @@ outp
 datasize
 dataalign
 netifdebug
+
+# tags and cscope
+tags
+cscope*
